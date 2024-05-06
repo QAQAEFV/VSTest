@@ -102,5 +102,10 @@ namespace Slave
         {
             return x + y;
         }
+        private int jianfa(int x, int y)
+        {
+            return x - y;
+        }
+
     }
 }
